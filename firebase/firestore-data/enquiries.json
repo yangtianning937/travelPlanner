@@ -1,0 +1,47 @@
+[
+    {
+        "document_id": "2",
+        "data": {
+            "id": 2,
+            "customer_name": "dsfds",
+            "customer_email": "tyan0026@student.monash.edu",
+            "customer_topic": "sfdaf"
+        }
+    },
+    {
+        "document_id": "3",
+        "data": {
+            "id": 3,
+            "customer_name": "dsfds",
+            "customer_email": "tyan0026@student.monash.edu",
+            "customer_topic": "fdsgf"
+        }
+    },
+    {
+        "document_id": "4",
+        "data": {
+            "id": 4,
+            "customer_name": "tianning yang",
+            "customer_email": "tyan0026@student.monash.edu",
+            "customer_topic": "fhjgvj"
+        }
+    },
+    {
+        "document_id": "5",
+        "data": {
+            "id": 5,
+            "customer_name": "sean",
+            "customer_email": "sean.mullins@gmail.com",
+            "customer_topic": "ppp"
+        }
+    },
+    {
+        "document_id": "6",
+        "data": {
+            "id": 6,
+            "customer_name": "dfgtyui",
+            "customer_email": "abha0028@email.com",
+            "customer_topic": "567890"
+        }
+    }
+]

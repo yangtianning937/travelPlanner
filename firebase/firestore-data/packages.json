@@ -1,0 +1,38 @@
+[
+    {
+        "document_id": "15",
+        "data": {
+            "id": 15,
+            "package_desc": "{\"leaveFrom\":\"New York\",\"goingTo\":\"London\",\"package_departure_time\":\"2023-05-10T01:44:54+00:00\",\"package_hotel_name\":\"London Hotel\",\"package_hotel_address\":\"London\"}",
+            "package_data_id": 4,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "16",
+        "data": {
+            "id": 16,
+            "package_desc": "{\"leaveFrom\":\"New York\",\"goingTo\":\"London\",\"package_departure_time\":\"2023-04-28T00:06:08+00:00\",\"package_hotel_name\":\"Four Seaons\",\"package_hotel_address\":\"London\"}",
+            "package_data_id": 2,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "17",
+        "data": {
+            "id": 17,
+            "package_desc": "{\"leaveFrom\":\"New York\",\"goingTo\":\"London\",\"package_departure_time\":\"2023-04-28T00:06:08+00:00\",\"package_hotel_name\":\"Four Seaons\",\"package_hotel_address\":\"London\"}",
+            "package_data_id": 2,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "18",
+        "data": {
+            "id": 18,
+            "package_desc": "{\"leaveFrom\":\"New York\",\"goingTo\":\"London\",\"package_departure_time\":\"2023-04-28T00:06:08+00:00\",\"package_hotel_name\":\"Four Seaons\",\"package_hotel_address\":\"London\"}",
+            "package_data_id": 2,
+            "user_id": 1
+        }
+    }
+]

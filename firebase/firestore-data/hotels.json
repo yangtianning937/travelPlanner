@@ -1,0 +1,93 @@
+[
+    {
+        "document_id": "7",
+        "data": {
+            "id": 7,
+            "hotel_name": "Varius Ultrices Mauris Corporation",
+            "hotel_price": "9655.22",
+            "hotel_address": "P.O. Box 142, 607 Vestibulum Road",
+            "hotel_city": "New York",
+            "hotel_country": "Ukraine",
+            "hotel_data_id": 51,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "8",
+        "data": {
+            "id": 8,
+            "hotel_name": "Malesuada Malesuada Limited",
+            "hotel_price": "9219.30",
+            "hotel_address": "Ap #573-7723 Mollis Rd.",
+            "hotel_city": "New York",
+            "hotel_country": "Bahrain",
+            "hotel_data_id": 97,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "9",
+        "data": {
+            "id": 9,
+            "hotel_name": "Aliquam Eu Accumsan Foundation",
+            "hotel_price": "8370.31",
+            "hotel_address": "8233 A Avenue",
+            "hotel_city": "New York",
+            "hotel_country": "United States",
+            "hotel_data_id": 158,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "10",
+        "data": {
+            "id": 10,
+            "hotel_name": "Aliquam Eu Accumsan Foundation",
+            "hotel_price": "8370.31",
+            "hotel_address": "8233 A Avenue",
+            "hotel_city": "New York",
+            "hotel_country": "United States",
+            "hotel_data_id": 158,
+            "user_id": 0
+        }
+    },
+    {
+        "document_id": "11",
+        "data": {
+            "id": 11,
+            "hotel_name": "Lorem Corp.",
+            "hotel_price": "7741.41",
+            "hotel_address": "Ap #981-8104 Elit Rd.",
+            "hotel_city": "Tokyo",
+            "hotel_country": "Namibia",
+            "hotel_data_id": 2,
+            "user_id": 1
+        }
+    },
+    {
+        "document_id": "12",
+        "data": {
+            "id": 12,
+            "hotel_name": "Scelerisque LLC",
+            "hotel_price": "8504.21",
+            "hotel_address": "3847 Vulputate St.",
+            "hotel_city": "Guarulhos",
+            "hotel_country": "Rwanda",
+            "hotel_data_id": 71,
+            "user_id": 1
+        }
+    },
+    {
+        "document_id": "13",
+        "data": {
+            "id": 13,
+            "hotel_name": "Varius Ultrices Mauris Corporation",
+            "hotel_price": "9655.22",
+            "hotel_address": "P.O. Box 142, 607 Vestibulum Road",
+            "hotel_city": "New York",
+            "hotel_country": "Ukraine",
+            "hotel_data_id": 51,
+            "user_id": 6
+        }
+    }
+]

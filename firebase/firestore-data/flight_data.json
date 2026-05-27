@@ -1,0 +1,2202 @@
+[
+    {
+        "document_id": "1",
+        "data": {
+            "id": 1,
+            "departure": "New York",
+            "destination": "London",
+            "departure_time": "2023-05-18 02:16:25",
+            "destination_time": "2023-05-18 16:18:25",
+            "flight_price": "1499.00"
+        }
+    },
+    {
+        "document_id": "2",
+        "data": {
+            "id": 2,
+            "departure": "Mumbai",
+            "destination": "Madrid",
+            "departure_time": "2023-05-19 07:50:59",
+            "destination_time": "2023-05-19 17:51:13",
+            "flight_price": "1250.00"
+        }
+    },
+    {
+        "document_id": "3",
+        "data": {
+            "id": 3,
+            "departure": "Seoul",
+            "destination": "Chicago",
+            "departure_time": "2023-05-20 03:07:57",
+            "destination_time": "2023-05-20 16:21:07",
+            "flight_price": "1799.00"
+        }
+    },
+    {
+        "document_id": "4",
+        "data": {
+            "id": 4,
+            "departure": "Shanghai",
+            "destination": "Perth",
+            "departure_time": "2023-05-21 05:30:46",
+            "destination_time": "2023-05-21 15:05:04",
+            "flight_price": "1200.00"
+        }
+    },
+    {
+        "document_id": "5",
+        "data": {
+            "id": 5,
+            "departure": "Kuala Lumpur",
+            "destination": "Miami",
+            "departure_time": "2023-05-21 06:06:03",
+            "destination_time": "2023-05-21 13:27:39",
+            "flight_price": "1300.00"
+        }
+    },
+    {
+        "document_id": "6",
+        "data": {
+            "id": 6,
+            "departure": "Brisbane",
+            "destination": "Perth",
+            "departure_time": "2023-05-22 10:12:13",
+            "destination_time": "2023-11-22 13:17:30",
+            "flight_price": "350.00"
+        }
+    },
+    {
+        "document_id": "7",
+        "data": {
+            "id": 7,
+            "departure": "Canberra",
+            "destination": "Perth",
+            "departure_time": "2023-05-25 13:38:23",
+            "destination_time": "2023-05-25 16:11:40",
+            "flight_price": "400.00"
+        }
+    },
+    {
+        "document_id": "8",
+        "data": {
+            "id": 8,
+            "departure": "Canberra",
+            "destination": "Perth",
+            "departure_time": "2023-05-25 07:14:52",
+            "destination_time": "2023-05-25 10:02:20",
+            "flight_price": "250.00"
+        }
+    },
+    {
+        "document_id": "9",
+        "data": {
+            "id": 9,
+            "departure": "Istanbul",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-05-27 18:20:32",
+            "destination_time": "2023-05-28 05:55:50",
+            "flight_price": "1800.00"
+        }
+    },
+    {
+        "document_id": "10",
+        "data": {
+            "id": 10,
+            "departure": "Chicago",
+            "destination": "Los Angels",
+            "departure_time": "2023-05-31 19:42:20",
+            "destination_time": "2023-05-31 23:35:08",
+            "flight_price": "300.00"
+        }
+    },
+    {
+        "document_id": "11",
+        "data": {
+            "id": 11,
+            "departure": "Pattaya",
+            "destination": "Beijing",
+            "departure_time": "2023-05-30 13:15:23",
+            "destination_time": "2023-05-30 18:49:43",
+            "flight_price": "500.00"
+        }
+    },
+    {
+        "document_id": "12",
+        "data": {
+            "id": 12,
+            "departure": "Perth",
+            "destination": "Hong Kong",
+            "departure_time": "2023-05-29 07:37:46",
+            "destination_time": "2023-05-29 16:48:03",
+            "flight_price": "1350.00"
+        }
+    },
+    {
+        "document_id": "13",
+        "data": {
+            "id": 13,
+            "departure": "Canberra",
+            "destination": "Los Angels",
+            "departure_time": "2023-06-15 01:15:30",
+            "destination_time": "2023-09-05 17:48:17",
+            "flight_price": "7345.96"
+        }
+    },
+    {
+        "document_id": "14",
+        "data": {
+            "id": 14,
+            "departure": "Orlando",
+            "destination": "Toronto",
+            "departure_time": "2023-11-22 13:56:06",
+            "destination_time": "2023-11-12 02:10:33",
+            "flight_price": "688.91"
+        }
+    },
+    {
+        "document_id": "15",
+        "data": {
+            "id": 15,
+            "departure": "Guarulhos",
+            "destination": "Taipei",
+            "departure_time": "2023-11-17 16:04:20",
+            "destination_time": "2023-06-16 08:42:25",
+            "flight_price": "4422.95"
+        }
+    },
+    {
+        "document_id": "16",
+        "data": {
+            "id": 16,
+            "departure": "Amsterdam",
+            "destination": "Perth",
+            "departure_time": "2023-05-27 14:16:48",
+            "destination_time": "2023-10-26 08:00:19",
+            "flight_price": "371.80"
+        }
+    },
+    {
+        "document_id": "17",
+        "data": {
+            "id": 17,
+            "departure": "Atlanta",
+            "destination": "Melbourne",
+            "departure_time": "2023-08-11 20:29:10",
+            "destination_time": "2023-05-27 08:26:53",
+            "flight_price": "3527.87"
+        }
+    },
+    {
+        "document_id": "18",
+        "data": {
+            "id": 18,
+            "departure": "Darwin",
+            "destination": "Atlanta",
+            "departure_time": "2023-05-26 06:13:30",
+            "destination_time": "2023-12-18 03:23:51",
+            "flight_price": "6137.80"
+        }
+    },
+    {
+        "document_id": "19",
+        "data": {
+            "id": 19,
+            "departure": "Orlando",
+            "destination": "Barcelona",
+            "departure_time": "2023-10-13 02:59:51",
+            "destination_time": "2023-10-25 04:50:11",
+            "flight_price": "7663.50"
+        }
+    },
+    {
+        "document_id": "20",
+        "data": {
+            "id": 20,
+            "departure": "Los Angels",
+            "destination": "Las Vegas",
+            "departure_time": "2023-06-22 05:22:46",
+            "destination_time": "2023-09-26 23:21:47",
+            "flight_price": "4722.89"
+        }
+    },
+    {
+        "document_id": "21",
+        "data": {
+            "id": 21,
+            "departure": "Atlanta",
+            "destination": "Frankfurt",
+            "departure_time": "2023-10-19 12:55:08",
+            "destination_time": "2023-11-24 05:28:35",
+            "flight_price": "9179.82"
+        }
+    },
+    {
+        "document_id": "22",
+        "data": {
+            "id": 22,
+            "departure": "Darwin",
+            "destination": "Osaka",
+            "departure_time": "2023-05-11 08:01:02",
+            "destination_time": "2023-05-24 21:25:42",
+            "flight_price": "2419.36"
+        }
+    },
+    {
+        "document_id": "23",
+        "data": {
+            "id": 23,
+            "departure": "Hanoi",
+            "destination": "Hong Kong",
+            "departure_time": "2023-09-21 09:27:31",
+            "destination_time": "2023-05-22 09:21:40",
+            "flight_price": "1758.08"
+        }
+    },
+    {
+        "document_id": "24",
+        "data": {
+            "id": 24,
+            "departure": "Taipei",
+            "destination": "Tokyo",
+            "departure_time": "2023-07-20 19:32:14",
+            "destination_time": "2023-11-28 04:01:43",
+            "flight_price": "1498.34"
+        }
+    },
+    {
+        "document_id": "25",
+        "data": {
+            "id": 25,
+            "departure": "Osaka",
+            "destination": "Brisbane",
+            "departure_time": "2023-07-21 15:30:15",
+            "destination_time": "2023-08-28 01:16:03",
+            "flight_price": "4563.01"
+        }
+    },
+    {
+        "document_id": "26",
+        "data": {
+            "id": 26,
+            "departure": "Kuala Lumpur",
+            "destination": "Phoenix",
+            "departure_time": "2023-09-24 10:41:15",
+            "destination_time": "2023-07-01 11:41:27",
+            "flight_price": "8945.59"
+        }
+    },
+    {
+        "document_id": "27",
+        "data": {
+            "id": 27,
+            "departure": "Paris",
+            "destination": "Phoenix",
+            "departure_time": "2023-11-13 01:53:04",
+            "destination_time": "2023-05-16 19:00:53",
+            "flight_price": "7814.65"
+        }
+    },
+    {
+        "document_id": "28",
+        "data": {
+            "id": 28,
+            "departure": "Paris",
+            "destination": "Mexico City",
+            "departure_time": "2023-08-25 18:17:16",
+            "destination_time": "2023-11-11 00:00:08",
+            "flight_price": "6322.19"
+        }
+    },
+    {
+        "document_id": "29",
+        "data": {
+            "id": 29,
+            "departure": "Kuala Lumpur",
+            "destination": "Brisbane",
+            "departure_time": "2023-12-16 11:40:04",
+            "destination_time": "2023-05-31 07:26:19",
+            "flight_price": "6451.70"
+        }
+    },
+    {
+        "document_id": "30",
+        "data": {
+            "id": 30,
+            "departure": "Singapore",
+            "destination": "Sydney",
+            "departure_time": "2023-07-24 06:56:50",
+            "destination_time": "2023-08-27 18:28:26",
+            "flight_price": "7866.28"
+        }
+    },
+    {
+        "document_id": "31",
+        "data": {
+            "id": 31,
+            "departure": "Sydney",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-12-09 04:00:45",
+            "destination_time": "2023-11-21 13:53:37",
+            "flight_price": "9478.29"
+        }
+    },
+    {
+        "document_id": "32",
+        "data": {
+            "id": 32,
+            "departure": "Hong Kong",
+            "destination": "Amsterdam",
+            "departure_time": "2023-06-27 08:12:22",
+            "destination_time": "2023-05-20 01:53:46",
+            "flight_price": "5295.80"
+        }
+    },
+    {
+        "document_id": "33",
+        "data": {
+            "id": 33,
+            "departure": "Orlando",
+            "destination": "Taipei",
+            "departure_time": "2023-10-16 12:51:32",
+            "destination_time": "2023-08-23 02:53:02",
+            "flight_price": "1989.38"
+        }
+    },
+    {
+        "document_id": "34",
+        "data": {
+            "id": 34,
+            "departure": "Hong Kong",
+            "destination": "Frankfurt",
+            "departure_time": "2023-08-07 18:05:40",
+            "destination_time": "2023-07-23 23:08:06",
+            "flight_price": "5876.63"
+        }
+    },
+    {
+        "document_id": "35",
+        "data": {
+            "id": 35,
+            "departure": "Osaka",
+            "destination": "Madrid",
+            "departure_time": "2023-07-24 23:28:31",
+            "destination_time": "2023-12-06 08:01:30",
+            "flight_price": "9399.55"
+        }
+    },
+    {
+        "document_id": "36",
+        "data": {
+            "id": 36,
+            "departure": "Barcelona",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-06-29 08:22:30",
+            "destination_time": "2023-08-10 12:26:41",
+            "flight_price": "3155.98"
+        }
+    },
+    {
+        "document_id": "37",
+        "data": {
+            "id": 37,
+            "departure": "Doha",
+            "destination": "Darwin",
+            "departure_time": "2023-10-27 05:56:11",
+            "destination_time": "2023-08-20 18:38:53",
+            "flight_price": "1137.52"
+        }
+    },
+    {
+        "document_id": "38",
+        "data": {
+            "id": 38,
+            "departure": "Pattaya",
+            "destination": "Mexico City",
+            "departure_time": "2023-12-13 00:39:02",
+            "destination_time": "2023-07-05 23:37:57",
+            "flight_price": "1368.45"
+        }
+    },
+    {
+        "document_id": "39",
+        "data": {
+            "id": 39,
+            "departure": "Amsterdam",
+            "destination": "Brisbane",
+            "departure_time": "2023-05-18 17:40:32",
+            "destination_time": "2023-06-12 20:41:00",
+            "flight_price": "3430.49"
+        }
+    },
+    {
+        "document_id": "40",
+        "data": {
+            "id": 40,
+            "departure": "Tangerang",
+            "destination": "Canberra",
+            "departure_time": "2023-12-01 03:00:20",
+            "destination_time": "2023-06-23 14:42:33",
+            "flight_price": "7080.69"
+        }
+    },
+    {
+        "document_id": "41",
+        "data": {
+            "id": 41,
+            "departure": "Pattaya",
+            "destination": "Hong Kong",
+            "departure_time": "2023-07-01 11:50:05",
+            "destination_time": "2023-06-18 18:19:27",
+            "flight_price": "5271.24"
+        }
+    },
+    {
+        "document_id": "42",
+        "data": {
+            "id": 42,
+            "departure": "Dallas",
+            "destination": "Las Vegas",
+            "departure_time": "2023-12-22 01:25:52",
+            "destination_time": "2023-07-08 12:54:27",
+            "flight_price": "9592.23"
+        }
+    },
+    {
+        "document_id": "43",
+        "data": {
+            "id": 43,
+            "departure": "Kuala Lumpur",
+            "destination": "Pattaya",
+            "departure_time": "2023-06-17 12:05:50",
+            "destination_time": "2023-09-25 09:17:28",
+            "flight_price": "4243.88"
+        }
+    },
+    {
+        "document_id": "44",
+        "data": {
+            "id": 44,
+            "departure": "Denver",
+            "destination": "Mexico City",
+            "departure_time": "2023-05-20 04:44:12",
+            "destination_time": "2023-10-20 05:57:39",
+            "flight_price": "8812.21"
+        }
+    },
+    {
+        "document_id": "45",
+        "data": {
+            "id": 45,
+            "departure": "Dallas",
+            "destination": "Tokyo",
+            "departure_time": "2023-09-15 09:55:28",
+            "destination_time": "2023-07-24 23:07:11",
+            "flight_price": "4254.28"
+        }
+    },
+    {
+        "document_id": "46",
+        "data": {
+            "id": 46,
+            "departure": "Hobart",
+            "destination": "Barcelona",
+            "departure_time": "2023-08-03 09:03:57",
+            "destination_time": "2023-08-21 13:47:01",
+            "flight_price": "8293.04"
+        }
+    },
+    {
+        "document_id": "47",
+        "data": {
+            "id": 47,
+            "departure": "Las Vegas",
+            "destination": "Orlando",
+            "departure_time": "2023-08-17 15:28:39",
+            "destination_time": "2023-05-31 09:35:28",
+            "flight_price": "288.15"
+        }
+    },
+    {
+        "document_id": "48",
+        "data": {
+            "id": 48,
+            "departure": "Denver",
+            "destination": "Hong Kong",
+            "departure_time": "2023-08-27 20:32:37",
+            "destination_time": "2023-10-04 00:11:57",
+            "flight_price": "4630.67"
+        }
+    },
+    {
+        "document_id": "49",
+        "data": {
+            "id": 49,
+            "departure": "Perth",
+            "destination": "Paris",
+            "departure_time": "2023-10-20 01:54:35",
+            "destination_time": "2023-10-18 07:07:14",
+            "flight_price": "6156.52"
+        }
+    },
+    {
+        "document_id": "50",
+        "data": {
+            "id": 50,
+            "departure": "Frankfurt",
+            "destination": "Dubai",
+            "departure_time": "2023-07-11 07:48:54",
+            "destination_time": "2023-05-27 15:48:41",
+            "flight_price": "104.49"
+        }
+    },
+    {
+        "document_id": "51",
+        "data": {
+            "id": 51,
+            "departure": "Perth",
+            "destination": "Dubai",
+            "departure_time": "2023-06-29 19:28:43",
+            "destination_time": "2023-07-30 01:55:15",
+            "flight_price": "1231.38"
+        }
+    },
+    {
+        "document_id": "52",
+        "data": {
+            "id": 52,
+            "departure": "Bangkok",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-09-13 09:14:33",
+            "destination_time": "2023-06-03 07:41:03",
+            "flight_price": "8632.34"
+        }
+    },
+    {
+        "document_id": "53",
+        "data": {
+            "id": 53,
+            "departure": "Hanoi",
+            "destination": "Perth",
+            "departure_time": "2023-09-12 06:16:04",
+            "destination_time": "2023-07-31 13:03:15",
+            "flight_price": "6268.11"
+        }
+    },
+    {
+        "document_id": "54",
+        "data": {
+            "id": 54,
+            "departure": "Miami",
+            "destination": "Hanoi",
+            "departure_time": "2023-12-25 20:58:00",
+            "destination_time": "2023-06-29 09:53:34",
+            "flight_price": "4151.95"
+        }
+    },
+    {
+        "document_id": "55",
+        "data": {
+            "id": 55,
+            "departure": "Adelaide",
+            "destination": "London",
+            "departure_time": "2023-10-06 08:39:01",
+            "destination_time": "2023-12-05 22:10:44",
+            "flight_price": "510.83"
+        }
+    },
+    {
+        "document_id": "56",
+        "data": {
+            "id": 56,
+            "departure": "Paris",
+            "destination": "Atlanta",
+            "departure_time": "2023-12-23 22:52:18",
+            "destination_time": "2023-12-09 18:23:16",
+            "flight_price": "1255.85"
+        }
+    },
+    {
+        "document_id": "57",
+        "data": {
+            "id": 57,
+            "departure": "Dallas",
+            "destination": "Beijing",
+            "departure_time": "2023-10-28 12:33:05",
+            "destination_time": "2023-08-20 01:16:26",
+            "flight_price": "9292.60"
+        }
+    },
+    {
+        "document_id": "58",
+        "data": {
+            "id": 58,
+            "departure": "Las Vegas",
+            "destination": "Denver",
+            "departure_time": "2023-12-01 22:54:10",
+            "destination_time": "2023-11-08 11:01:30",
+            "flight_price": "651.57"
+        }
+    },
+    {
+        "document_id": "59",
+        "data": {
+            "id": 59,
+            "departure": "Darwin",
+            "destination": "Tangerang",
+            "departure_time": "2023-12-16 17:43:35",
+            "destination_time": "2023-12-30 11:18:20",
+            "flight_price": "1278.86"
+        }
+    },
+    {
+        "document_id": "60",
+        "data": {
+            "id": 60,
+            "departure": "Tokyo",
+            "destination": "Hanoi",
+            "departure_time": "2023-12-22 02:07:38",
+            "destination_time": "2023-09-08 00:57:07",
+            "flight_price": "1775.20"
+        }
+    },
+    {
+        "document_id": "61",
+        "data": {
+            "id": 61,
+            "departure": "Dubai",
+            "destination": "Doha",
+            "departure_time": "2023-12-23 09:47:59",
+            "destination_time": "2023-06-27 13:45:41",
+            "flight_price": "5230.24"
+        }
+    },
+    {
+        "document_id": "62",
+        "data": {
+            "id": 62,
+            "departure": "Madrid",
+            "destination": "Adelaide",
+            "departure_time": "2023-10-19 09:18:57",
+            "destination_time": "2023-09-13 11:52:39",
+            "flight_price": "6432.64"
+        }
+    },
+    {
+        "document_id": "63",
+        "data": {
+            "id": 63,
+            "departure": "Perth",
+            "destination": "Tangerang",
+            "departure_time": "2023-06-26 15:16:44",
+            "destination_time": "2023-07-28 05:34:28",
+            "flight_price": "68.94"
+        }
+    },
+    {
+        "document_id": "64",
+        "data": {
+            "id": 64,
+            "departure": "Phoenix",
+            "destination": "Dallas",
+            "departure_time": "2023-06-19 00:21:36",
+            "destination_time": "2023-11-16 11:38:50",
+            "flight_price": "5608.93"
+        }
+    },
+    {
+        "document_id": "65",
+        "data": {
+            "id": 65,
+            "departure": "Phoenix",
+            "destination": "Taipei",
+            "departure_time": "2023-12-30 17:43:30",
+            "destination_time": "2023-05-24 05:57:11",
+            "flight_price": "5729.39"
+        }
+    },
+    {
+        "document_id": "66",
+        "data": {
+            "id": 66,
+            "departure": "Paris",
+            "destination": "Melbourne",
+            "departure_time": "2023-08-17 01:41:56",
+            "destination_time": "2023-12-19 16:22:04",
+            "flight_price": "3219.52"
+        }
+    },
+    {
+        "document_id": "67",
+        "data": {
+            "id": 67,
+            "departure": "Barcelona",
+            "destination": "Guarulhos",
+            "departure_time": "2023-11-30 18:36:37",
+            "destination_time": "2023-12-18 19:13:56",
+            "flight_price": "8396.93"
+        }
+    },
+    {
+        "document_id": "68",
+        "data": {
+            "id": 68,
+            "departure": "Beijing",
+            "destination": "Doha",
+            "departure_time": "2023-12-16 11:42:13",
+            "destination_time": "2023-08-31 19:02:44",
+            "flight_price": "6693.67"
+        }
+    },
+    {
+        "document_id": "69",
+        "data": {
+            "id": 69,
+            "departure": "Pattaya",
+            "destination": "Madrid",
+            "departure_time": "2023-11-07 20:41:05",
+            "destination_time": "2023-07-02 05:14:59",
+            "flight_price": "3215.12"
+        }
+    },
+    {
+        "document_id": "70",
+        "data": {
+            "id": 70,
+            "departure": "Frankfurt",
+            "destination": "Orlando",
+            "departure_time": "2023-07-30 15:51:36",
+            "destination_time": "2023-08-25 07:41:48",
+            "flight_price": "1727.30"
+        }
+    },
+    {
+        "document_id": "71",
+        "data": {
+            "id": 71,
+            "departure": "Paris",
+            "destination": "Chicago",
+            "departure_time": "2023-05-30 19:34:32",
+            "destination_time": "2023-08-21 05:37:39",
+            "flight_price": "2902.48"
+        }
+    },
+    {
+        "document_id": "72",
+        "data": {
+            "id": 72,
+            "departure": "Orlando",
+            "destination": "Delhi",
+            "departure_time": "2023-06-11 06:56:05",
+            "destination_time": "2023-08-24 19:43:30",
+            "flight_price": "1357.45"
+        }
+    },
+    {
+        "document_id": "73",
+        "data": {
+            "id": 73,
+            "departure": "Kuala Lumpur",
+            "destination": "London",
+            "departure_time": "2023-10-21 11:23:05",
+            "destination_time": "2023-06-08 15:32:11",
+            "flight_price": "1237.97"
+        }
+    },
+    {
+        "document_id": "74",
+        "data": {
+            "id": 74,
+            "departure": "Los Angels",
+            "destination": "Barcelona",
+            "departure_time": "2023-12-22 14:34:48",
+            "destination_time": "2023-10-05 17:24:55",
+            "flight_price": "6921.70"
+        }
+    },
+    {
+        "document_id": "75",
+        "data": {
+            "id": 75,
+            "departure": "Shanghai",
+            "destination": "Chicago",
+            "departure_time": "2023-11-10 18:27:40",
+            "destination_time": "2023-08-24 13:22:26",
+            "flight_price": "4259.25"
+        }
+    },
+    {
+        "document_id": "76",
+        "data": {
+            "id": 76,
+            "departure": "Shanghai",
+            "destination": "Hanoi",
+            "departure_time": "2023-10-08 09:13:14",
+            "destination_time": "2023-07-28 21:38:57",
+            "flight_price": "7855.82"
+        }
+    },
+    {
+        "document_id": "77",
+        "data": {
+            "id": 77,
+            "departure": "Shanghai",
+            "destination": "Chicago",
+            "departure_time": "2023-08-14 18:11:19",
+            "destination_time": "2023-12-31 22:36:10",
+            "flight_price": "6648.79"
+        }
+    },
+    {
+        "document_id": "78",
+        "data": {
+            "id": 78,
+            "departure": "Seoul",
+            "destination": "Hobart",
+            "departure_time": "2023-07-26 23:25:27",
+            "destination_time": "2023-10-28 08:00:35",
+            "flight_price": "9446.33"
+        }
+    },
+    {
+        "document_id": "79",
+        "data": {
+            "id": 79,
+            "departure": "Frankfurt",
+            "destination": "Tangerang",
+            "departure_time": "2023-05-10 14:29:56",
+            "destination_time": "2023-12-02 01:15:28",
+            "flight_price": "6135.45"
+        }
+    },
+    {
+        "document_id": "80",
+        "data": {
+            "id": 80,
+            "departure": "Denver",
+            "destination": "Darwin",
+            "departure_time": "2023-11-13 11:29:06",
+            "destination_time": "2023-11-01 13:05:45",
+            "flight_price": "4159.13"
+        }
+    },
+    {
+        "document_id": "81",
+        "data": {
+            "id": 81,
+            "departure": "Istanbul",
+            "destination": "Frankfurt",
+            "departure_time": "2023-07-24 17:39:57",
+            "destination_time": "2023-10-01 23:02:46",
+            "flight_price": "2959.39"
+        }
+    },
+    {
+        "document_id": "82",
+        "data": {
+            "id": 82,
+            "departure": "Istanbul",
+            "destination": "Singapore",
+            "departure_time": "2023-07-18 02:43:35",
+            "destination_time": "2023-12-10 10:22:02",
+            "flight_price": "4830.20"
+        }
+    },
+    {
+        "document_id": "83",
+        "data": {
+            "id": 83,
+            "departure": "Miami",
+            "destination": "Tangerang",
+            "departure_time": "2023-09-14 11:53:11",
+            "destination_time": "2023-05-16 22:44:39",
+            "flight_price": "1168.71"
+        }
+    },
+    {
+        "document_id": "84",
+        "data": {
+            "id": 84,
+            "departure": "Phoenix",
+            "destination": "Chicago",
+            "departure_time": "2023-10-19 17:07:17",
+            "destination_time": "2023-09-17 01:12:10",
+            "flight_price": "468.34"
+        }
+    },
+    {
+        "document_id": "85",
+        "data": {
+            "id": 85,
+            "departure": "Dallas",
+            "destination": "Denver",
+            "departure_time": "2023-06-18 15:58:36",
+            "destination_time": "2023-12-06 17:50:31",
+            "flight_price": "894.25"
+        }
+    },
+    {
+        "document_id": "86",
+        "data": {
+            "id": 86,
+            "departure": "Singapore",
+            "destination": "Doha",
+            "departure_time": "2023-07-08 17:22:09",
+            "destination_time": "2023-09-07 05:50:14",
+            "flight_price": "9951.89"
+        }
+    },
+    {
+        "document_id": "87",
+        "data": {
+            "id": 87,
+            "departure": "Istanbul",
+            "destination": "Phoenix",
+            "departure_time": "2023-12-11 06:03:09",
+            "destination_time": "2023-08-12 02:22:50",
+            "flight_price": "2567.80"
+        }
+    },
+    {
+        "document_id": "88",
+        "data": {
+            "id": 88,
+            "departure": "Los Angels",
+            "destination": "Madrid",
+            "departure_time": "2023-08-04 04:47:07",
+            "destination_time": "2023-09-27 06:38:03",
+            "flight_price": "9444.59"
+        }
+    },
+    {
+        "document_id": "89",
+        "data": {
+            "id": 89,
+            "departure": "Darwin",
+            "destination": "Denver",
+            "departure_time": "2023-05-27 16:58:49",
+            "destination_time": "2023-10-28 12:53:44",
+            "flight_price": "702.13"
+        }
+    },
+    {
+        "document_id": "90",
+        "data": {
+            "id": 90,
+            "departure": "Adelaide",
+            "destination": "Atlanta",
+            "departure_time": "2023-08-25 10:20:16",
+            "destination_time": "2023-06-15 06:33:10",
+            "flight_price": "1650.52"
+        }
+    },
+    {
+        "document_id": "91",
+        "data": {
+            "id": 91,
+            "departure": "Chicago",
+            "destination": "Canberra",
+            "departure_time": "2023-08-28 03:28:13",
+            "destination_time": "2023-12-29 02:26:10",
+            "flight_price": "5188.82"
+        }
+    },
+    {
+        "document_id": "92",
+        "data": {
+            "id": 92,
+            "departure": "Melbourne",
+            "destination": "Miami",
+            "departure_time": "2023-10-31 17:02:23",
+            "destination_time": "2023-06-14 10:41:10",
+            "flight_price": "2541.80"
+        }
+    },
+    {
+        "document_id": "93",
+        "data": {
+            "id": 93,
+            "departure": "Tokyo",
+            "destination": "Hong Kong",
+            "departure_time": "2023-07-14 18:43:10",
+            "destination_time": "2023-08-05 03:14:56",
+            "flight_price": "3800.86"
+        }
+    },
+    {
+        "document_id": "94",
+        "data": {
+            "id": 94,
+            "departure": "Adelaide",
+            "destination": "Hanoi",
+            "departure_time": "2023-05-26 00:56:03",
+            "destination_time": "2023-05-28 13:20:01",
+            "flight_price": "4611.24"
+        }
+    },
+    {
+        "document_id": "95",
+        "data": {
+            "id": 95,
+            "departure": "Guarulhos",
+            "destination": "Atlanta",
+            "departure_time": "2023-06-16 14:07:11",
+            "destination_time": "2023-09-02 02:12:23",
+            "flight_price": "6149.30"
+        }
+    },
+    {
+        "document_id": "96",
+        "data": {
+            "id": 96,
+            "departure": "Beijing",
+            "destination": "Los Angels",
+            "departure_time": "2023-11-13 09:50:39",
+            "destination_time": "2023-10-13 14:40:29",
+            "flight_price": "2376.24"
+        }
+    },
+    {
+        "document_id": "97",
+        "data": {
+            "id": 97,
+            "departure": "Singapore",
+            "destination": "Bangkok",
+            "departure_time": "2023-06-15 01:06:01",
+            "destination_time": "2023-08-23 15:48:22",
+            "flight_price": "58.02"
+        }
+    },
+    {
+        "document_id": "98",
+        "data": {
+            "id": 98,
+            "departure": "Amsterdam",
+            "destination": "Perth",
+            "departure_time": "2023-09-06 08:52:19",
+            "destination_time": "2023-08-30 11:47:21",
+            "flight_price": "5543.36"
+        }
+    },
+    {
+        "document_id": "99",
+        "data": {
+            "id": 99,
+            "departure": "Bangkok",
+            "destination": "Hong Kong",
+            "departure_time": "2023-08-05 21:55:36",
+            "destination_time": "2023-10-04 13:03:38",
+            "flight_price": "1977.00"
+        }
+    },
+    {
+        "document_id": "100",
+        "data": {
+            "id": 100,
+            "departure": "Tokyo",
+            "destination": "Mumbai",
+            "departure_time": "2023-12-13 08:32:32",
+            "destination_time": "2023-06-13 07:55:50",
+            "flight_price": "830.89"
+        }
+    },
+    {
+        "document_id": "101",
+        "data": {
+            "id": 101,
+            "departure": "Ho Chi Minh City",
+            "destination": "Chicago",
+            "departure_time": "2023-06-25 01:30:43",
+            "destination_time": "2023-12-27 01:37:08",
+            "flight_price": "7967.44"
+        }
+    },
+    {
+        "document_id": "102",
+        "data": {
+            "id": 102,
+            "departure": "Chicago",
+            "destination": "Istanbul",
+            "departure_time": "2023-06-07 15:24:16",
+            "destination_time": "2023-11-07 21:13:35",
+            "flight_price": "737.01"
+        }
+    },
+    {
+        "document_id": "103",
+        "data": {
+            "id": 103,
+            "departure": "Bangkok",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-09-20 02:13:04",
+            "destination_time": "2023-07-02 18:41:32",
+            "flight_price": "9606.34"
+        }
+    },
+    {
+        "document_id": "104",
+        "data": {
+            "id": 104,
+            "departure": "Orlando",
+            "destination": "Los Angels",
+            "departure_time": "2023-12-26 04:52:04",
+            "destination_time": "2023-08-05 18:04:25",
+            "flight_price": "8640.44"
+        }
+    },
+    {
+        "document_id": "105",
+        "data": {
+            "id": 105,
+            "departure": "Frankfurt",
+            "destination": "Tangerang",
+            "departure_time": "2023-10-11 16:34:45",
+            "destination_time": "2023-08-03 16:20:37",
+            "flight_price": "4812.49"
+        }
+    },
+    {
+        "document_id": "106",
+        "data": {
+            "id": 106,
+            "departure": "Perth",
+            "destination": "Pattaya",
+            "departure_time": "2023-10-07 05:16:41",
+            "destination_time": "2023-08-27 23:05:50",
+            "flight_price": "9363.09"
+        }
+    },
+    {
+        "document_id": "107",
+        "data": {
+            "id": 107,
+            "departure": "Los Angels",
+            "destination": "Chicago",
+            "departure_time": "2023-11-19 01:19:59",
+            "destination_time": "2023-12-28 03:15:16",
+            "flight_price": "6425.82"
+        }
+    },
+    {
+        "document_id": "108",
+        "data": {
+            "id": 108,
+            "departure": "Adelaide",
+            "destination": "Mexico City",
+            "departure_time": "2023-06-21 16:34:48",
+            "destination_time": "2023-10-09 21:35:55",
+            "flight_price": "5282.01"
+        }
+    },
+    {
+        "document_id": "109",
+        "data": {
+            "id": 109,
+            "departure": "Beijing",
+            "destination": "Paris",
+            "departure_time": "2023-06-19 10:31:14",
+            "destination_time": "2023-11-09 04:32:19",
+            "flight_price": "922.25"
+        }
+    },
+    {
+        "document_id": "110",
+        "data": {
+            "id": 110,
+            "departure": "Singapore",
+            "destination": "Hobart",
+            "departure_time": "2023-08-26 14:18:57",
+            "destination_time": "2023-10-12 00:46:28",
+            "flight_price": "4406.65"
+        }
+    },
+    {
+        "document_id": "111",
+        "data": {
+            "id": 111,
+            "departure": "Orlando",
+            "destination": "Brisbane",
+            "departure_time": "2023-09-27 20:59:24",
+            "destination_time": "2023-08-18 03:20:13",
+            "flight_price": "1117.67"
+        }
+    },
+    {
+        "document_id": "112",
+        "data": {
+            "id": 112,
+            "departure": "Pattaya",
+            "destination": "Doha",
+            "departure_time": "2023-10-10 19:00:57",
+            "destination_time": "2023-10-29 06:31:34",
+            "flight_price": "8904.43"
+        }
+    },
+    {
+        "document_id": "113",
+        "data": {
+            "id": 113,
+            "departure": "Mumbai",
+            "destination": "Guarulhos",
+            "departure_time": "2023-05-23 01:34:55",
+            "destination_time": "2023-09-30 09:06:19",
+            "flight_price": "1200.16"
+        }
+    },
+    {
+        "document_id": "114",
+        "data": {
+            "id": 114,
+            "departure": "Hobart",
+            "destination": "Istanbul",
+            "departure_time": "2023-10-30 12:45:19",
+            "destination_time": "2023-05-22 06:33:03",
+            "flight_price": "7537.54"
+        }
+    },
+    {
+        "document_id": "115",
+        "data": {
+            "id": 115,
+            "departure": "Atlanta",
+            "destination": "Guarulhos",
+            "departure_time": "2023-11-12 07:19:32",
+            "destination_time": "2023-11-19 09:44:09",
+            "flight_price": "549.30"
+        }
+    },
+    {
+        "document_id": "116",
+        "data": {
+            "id": 116,
+            "departure": "Hobart",
+            "destination": "Shanghai",
+            "departure_time": "2023-07-31 12:08:50",
+            "destination_time": "2023-06-04 01:06:32",
+            "flight_price": "9556.40"
+        }
+    },
+    {
+        "document_id": "117",
+        "data": {
+            "id": 117,
+            "departure": "Osaka",
+            "destination": "Mumbai",
+            "departure_time": "2023-09-25 19:38:14",
+            "destination_time": "2023-09-23 03:43:30",
+            "flight_price": "4884.43"
+        }
+    },
+    {
+        "document_id": "118",
+        "data": {
+            "id": 118,
+            "departure": "Atlanta",
+            "destination": "Osaka",
+            "departure_time": "2023-05-11 19:01:54",
+            "destination_time": "2023-09-27 00:22:58",
+            "flight_price": "4023.50"
+        }
+    },
+    {
+        "document_id": "119",
+        "data": {
+            "id": 119,
+            "departure": "Delhi",
+            "destination": "Adelaide",
+            "departure_time": "2023-11-18 11:38:00",
+            "destination_time": "2023-08-13 11:28:37",
+            "flight_price": "2887.07"
+        }
+    },
+    {
+        "document_id": "120",
+        "data": {
+            "id": 120,
+            "departure": "Doha",
+            "destination": "Orlando",
+            "departure_time": "2023-08-25 08:16:32",
+            "destination_time": "2023-11-18 07:18:06",
+            "flight_price": "7697.20"
+        }
+    },
+    {
+        "document_id": "121",
+        "data": {
+            "id": 121,
+            "departure": "Shanghai",
+            "destination": "Atlanta",
+            "departure_time": "2023-07-13 21:44:46",
+            "destination_time": "2023-07-13 03:44:16",
+            "flight_price": "6348.93"
+        }
+    },
+    {
+        "document_id": "122",
+        "data": {
+            "id": 122,
+            "departure": "Las Vegas",
+            "destination": "Sydney",
+            "departure_time": "2023-09-01 18:50:46",
+            "destination_time": "2023-05-16 19:10:06",
+            "flight_price": "1143.05"
+        }
+    },
+    {
+        "document_id": "123",
+        "data": {
+            "id": 123,
+            "departure": "Melbourne",
+            "destination": "Orlando",
+            "departure_time": "2023-10-29 19:54:05",
+            "destination_time": "2023-11-24 16:27:54",
+            "flight_price": "5068.86"
+        }
+    },
+    {
+        "document_id": "124",
+        "data": {
+            "id": 124,
+            "departure": "Denver",
+            "destination": "Phoenix",
+            "departure_time": "2023-05-30 17:10:50",
+            "destination_time": "2023-07-05 10:55:20",
+            "flight_price": "8909.77"
+        }
+    },
+    {
+        "document_id": "125",
+        "data": {
+            "id": 125,
+            "departure": "Tangerang",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-09-04 19:44:12",
+            "destination_time": "2023-10-08 00:06:30",
+            "flight_price": "4437.66"
+        }
+    },
+    {
+        "document_id": "126",
+        "data": {
+            "id": 126,
+            "departure": "Ho Chi Minh City",
+            "destination": "Mumbai",
+            "departure_time": "2023-08-18 07:09:13",
+            "destination_time": "2023-11-23 09:09:41",
+            "flight_price": "942.91"
+        }
+    },
+    {
+        "document_id": "127",
+        "data": {
+            "id": 127,
+            "departure": "Beijing",
+            "destination": "Atlanta",
+            "departure_time": "2023-09-14 14:04:43",
+            "destination_time": "2023-11-18 05:55:17",
+            "flight_price": "6681.83"
+        }
+    },
+    {
+        "document_id": "128",
+        "data": {
+            "id": 128,
+            "departure": "Pattaya",
+            "destination": "Atlanta",
+            "departure_time": "2023-12-01 03:41:39",
+            "destination_time": "2023-05-14 14:46:14",
+            "flight_price": "8076.61"
+        }
+    },
+    {
+        "document_id": "129",
+        "data": {
+            "id": 129,
+            "departure": "Chicago",
+            "destination": "Paris",
+            "departure_time": "2023-10-08 08:35:04",
+            "destination_time": "2023-05-24 08:25:45",
+            "flight_price": "5647.64"
+        }
+    },
+    {
+        "document_id": "130",
+        "data": {
+            "id": 130,
+            "departure": "Dubai",
+            "destination": "New York",
+            "departure_time": "2023-12-23 19:01:05",
+            "destination_time": "2023-09-29 21:01:00",
+            "flight_price": "5874.99"
+        }
+    },
+    {
+        "document_id": "131",
+        "data": {
+            "id": 131,
+            "departure": "Mexico City",
+            "destination": "Denver",
+            "departure_time": "2023-08-10 22:55:37",
+            "destination_time": "2023-11-10 01:53:30",
+            "flight_price": "9853.44"
+        }
+    },
+    {
+        "document_id": "132",
+        "data": {
+            "id": 132,
+            "departure": "Bangkok",
+            "destination": "Brisbane",
+            "departure_time": "2023-10-20 17:29:30",
+            "destination_time": "2023-05-22 16:28:30",
+            "flight_price": "8393.75"
+        }
+    },
+    {
+        "document_id": "133",
+        "data": {
+            "id": 133,
+            "departure": "Melbourne",
+            "destination": "Dubai",
+            "departure_time": "2023-10-22 06:53:33",
+            "destination_time": "2023-10-05 02:08:19",
+            "flight_price": "2278.62"
+        }
+    },
+    {
+        "document_id": "134",
+        "data": {
+            "id": 134,
+            "departure": "Hobart",
+            "destination": "Miami",
+            "departure_time": "2023-12-25 01:45:39",
+            "destination_time": "2023-07-09 21:03:08",
+            "flight_price": "8452.09"
+        }
+    },
+    {
+        "document_id": "135",
+        "data": {
+            "id": 135,
+            "departure": "Shanghai",
+            "destination": "Kuala Lumpur",
+            "departure_time": "2023-09-25 13:03:39",
+            "destination_time": "2023-05-29 10:13:36",
+            "flight_price": "1756.52"
+        }
+    },
+    {
+        "document_id": "136",
+        "data": {
+            "id": 136,
+            "departure": "Amsterdam",
+            "destination": "Atlanta",
+            "departure_time": "2023-09-30 21:35:47",
+            "destination_time": "2023-08-28 14:48:26",
+            "flight_price": "1152.16"
+        }
+    },
+    {
+        "document_id": "137",
+        "data": {
+            "id": 137,
+            "departure": "Phoenix",
+            "destination": "Delhi",
+            "departure_time": "2023-10-15 07:37:58",
+            "destination_time": "2023-09-29 09:55:20",
+            "flight_price": "3468.40"
+        }
+    },
+    {
+        "document_id": "138",
+        "data": {
+            "id": 138,
+            "departure": "Chicago",
+            "destination": "Perth",
+            "departure_time": "2023-11-30 01:13:38",
+            "destination_time": "2023-11-07 08:29:19",
+            "flight_price": "3054.95"
+        }
+    },
+    {
+        "document_id": "139",
+        "data": {
+            "id": 139,
+            "departure": "Guarulhos",
+            "destination": "Adelaide",
+            "departure_time": "2023-08-15 20:24:34",
+            "destination_time": "2023-09-15 14:04:33",
+            "flight_price": "7961.74"
+        }
+    },
+    {
+        "document_id": "140",
+        "data": {
+            "id": 140,
+            "departure": "Mumbai",
+            "destination": "Phoenix",
+            "departure_time": "2023-06-03 20:52:33",
+            "destination_time": "2023-06-18 01:50:49",
+            "flight_price": "9067.48"
+        }
+    },
+    {
+        "document_id": "141",
+        "data": {
+            "id": 141,
+            "departure": "Madrid",
+            "destination": "Delhi",
+            "departure_time": "2023-09-01 07:56:33",
+            "destination_time": "2023-11-20 13:30:13",
+            "flight_price": "9698.58"
+        }
+    },
+    {
+        "document_id": "142",
+        "data": {
+            "id": 142,
+            "departure": "Madrid",
+            "destination": "Beijing",
+            "departure_time": "2023-05-12 13:06:37",
+            "destination_time": "2023-08-22 23:29:20",
+            "flight_price": "3267.29"
+        }
+    },
+    {
+        "document_id": "143",
+        "data": {
+            "id": 143,
+            "departure": "Delhi",
+            "destination": "New York",
+            "departure_time": "2023-08-03 00:07:23",
+            "destination_time": "2023-05-26 01:42:06",
+            "flight_price": "8736.06"
+        }
+    },
+    {
+        "document_id": "144",
+        "data": {
+            "id": 144,
+            "departure": "Las Vegas",
+            "destination": "Dubai",
+            "departure_time": "2023-10-24 16:24:08",
+            "destination_time": "2023-05-20 02:23:08",
+            "flight_price": "6407.72"
+        }
+    },
+    {
+        "document_id": "145",
+        "data": {
+            "id": 145,
+            "departure": "Tangerang",
+            "destination": "Amsterdam",
+            "departure_time": "2023-07-23 17:21:26",
+            "destination_time": "2023-11-25 16:44:59",
+            "flight_price": "5628.87"
+        }
+    },
+    {
+        "document_id": "146",
+        "data": {
+            "id": 146,
+            "departure": "Darwin",
+            "destination": "Darwin",
+            "departure_time": "2023-08-23 02:34:31",
+            "destination_time": "2023-08-23 07:57:55",
+            "flight_price": "3165.89"
+        }
+    },
+    {
+        "document_id": "147",
+        "data": {
+            "id": 147,
+            "departure": "Sydney",
+            "destination": "Doha",
+            "departure_time": "2023-08-07 22:54:06",
+            "destination_time": "2023-11-29 14:50:37",
+            "flight_price": "7624.37"
+        }
+    },
+    {
+        "document_id": "148",
+        "data": {
+            "id": 148,
+            "departure": "Tokyo",
+            "destination": "Paris",
+            "departure_time": "2023-05-23 03:21:24",
+            "destination_time": "2023-06-01 00:12:22",
+            "flight_price": "2958.60"
+        }
+    },
+    {
+        "document_id": "149",
+        "data": {
+            "id": 149,
+            "departure": "Hobart",
+            "destination": "Amsterdam",
+            "departure_time": "2023-12-01 14:25:28",
+            "destination_time": "2023-05-30 04:13:02",
+            "flight_price": "8329.80"
+        }
+    },
+    {
+        "document_id": "150",
+        "data": {
+            "id": 150,
+            "departure": "Mumbai",
+            "destination": "Hong Kong",
+            "departure_time": "2023-09-12 18:22:26",
+            "destination_time": "2023-06-28 13:39:42",
+            "flight_price": "4220.56"
+        }
+    },
+    {
+        "document_id": "151",
+        "data": {
+            "id": 151,
+            "departure": "New York",
+            "destination": "Taipei",
+            "departure_time": "2023-08-28 11:18:01",
+            "destination_time": "2023-08-14 01:43:14",
+            "flight_price": "9312.39"
+        }
+    },
+    {
+        "document_id": "152",
+        "data": {
+            "id": 152,
+            "departure": "Atlanta",
+            "destination": "Mumbai",
+            "departure_time": "2023-07-26 18:19:07",
+            "destination_time": "2023-09-22 18:20:43",
+            "flight_price": "9544.98"
+        }
+    },
+    {
+        "document_id": "153",
+        "data": {
+            "id": 153,
+            "departure": "Seoul",
+            "destination": "Shanghai",
+            "departure_time": "2023-07-19 02:31:25",
+            "destination_time": "2023-11-27 07:36:57",
+            "flight_price": "6533.11"
+        }
+    },
+    {
+        "document_id": "154",
+        "data": {
+            "id": 154,
+            "departure": "Shanghai",
+            "destination": "Ho Chi Minh City",
+            "departure_time": "2023-05-21 08:16:39",
+            "destination_time": "2023-08-02 16:18:26",
+            "flight_price": "6984.51"
+        }
+    },
+    {
+        "document_id": "155",
+        "data": {
+            "id": 155,
+            "departure": "Hanoi",
+            "destination": "Orlando",
+            "departure_time": "2023-11-09 07:43:36",
+            "destination_time": "2023-09-05 04:41:16",
+            "flight_price": "7579.83"
+        }
+    },
+    {
+        "document_id": "156",
+        "data": {
+            "id": 156,
+            "departure": "Taipei",
+            "destination": "Beijing",
+            "departure_time": "2023-12-19 22:26:02",
+            "destination_time": "2023-12-14 22:21:53",
+            "flight_price": "1894.51"
+        }
+    },
+    {
+        "document_id": "157",
+        "data": {
+            "id": 157,
+            "departure": "Orlando",
+            "destination": "Frankfurt",
+            "departure_time": "2023-12-07 19:23:24",
+            "destination_time": "2023-12-28 15:11:47",
+            "flight_price": "68.16"
+        }
+    },
+    {
+        "document_id": "158",
+        "data": {
+            "id": 158,
+            "departure": "Melbourne",
+            "destination": "Tokyo",
+            "departure_time": "2023-10-07 01:33:08",
+            "destination_time": "2023-12-17 03:52:20",
+            "flight_price": "6580.15"
+        }
+    },
+    {
+        "document_id": "159",
+        "data": {
+            "id": 159,
+            "departure": "London",
+            "destination": "Guarulhos",
+            "departure_time": "2023-09-09 16:19:08",
+            "destination_time": "2023-08-16 02:14:40",
+            "flight_price": "8918.78"
+        }
+    },
+    {
+        "document_id": "160",
+        "data": {
+            "id": 160,
+            "departure": "Seoul",
+            "destination": "Tangerang",
+            "departure_time": "2023-08-03 10:14:39",
+            "destination_time": "2023-09-29 07:28:37",
+            "flight_price": "8181.75"
+        }
+    },
+    {
+        "document_id": "161",
+        "data": {
+            "id": 161,
+            "departure": "Chicago",
+            "destination": "Tangerang",
+            "departure_time": "2023-05-23 17:50:41",
+            "destination_time": "2023-07-10 21:36:38",
+            "flight_price": "1838.20"
+        }
+    },
+    {
+        "document_id": "162",
+        "data": {
+            "id": 162,
+            "departure": "Hanoi",
+            "destination": "Hanoi",
+            "departure_time": "2023-08-10 02:56:56",
+            "destination_time": "2023-10-09 03:32:26",
+            "flight_price": "1041.24"
+        }
+    },
+    {
+        "document_id": "163",
+        "data": {
+            "id": 163,
+            "departure": "Sydney",
+            "destination": "Beijing",
+            "departure_time": "2023-08-10 20:04:09",
+            "destination_time": "2023-08-13 04:47:33",
+            "flight_price": "8610.65"
+        }
+    },
+    {
+        "document_id": "164",
+        "data": {
+            "id": 164,
+            "departure": "Tokyo",
+            "destination": "Phoenix",
+            "departure_time": "2023-05-15 22:15:12",
+            "destination_time": "2023-09-29 18:02:59",
+            "flight_price": "6565.52"
+        }
+    },
+    {
+        "document_id": "165",
+        "data": {
+            "id": 165,
+            "departure": "Phoenix",
+            "destination": "Brisbane",
+            "departure_time": "2023-12-14 01:32:29",
+            "destination_time": "2023-06-15 01:59:58",
+            "flight_price": "7617.47"
+        }
+    },
+    {
+        "document_id": "166",
+        "data": {
+            "id": 166,
+            "departure": "Canberra",
+            "destination": "Hanoi",
+            "departure_time": "2023-11-19 10:43:08",
+            "destination_time": "2023-08-03 10:28:34",
+            "flight_price": "5710.00"
+        }
+    },
+    {
+        "document_id": "167",
+        "data": {
+            "id": 167,
+            "departure": "Singapore",
+            "destination": "Hobart",
+            "departure_time": "2023-06-30 23:02:44",
+            "destination_time": "2023-10-17 17:30:22",
+            "flight_price": "2688.77"
+        }
+    },
+    {
+        "document_id": "168",
+        "data": {
+            "id": 168,
+            "departure": "Amsterdam",
+            "destination": "Amsterdam",
+            "departure_time": "2023-06-15 11:40:57",
+            "destination_time": "2023-08-08 14:41:43",
+            "flight_price": "3071.17"
+        }
+    },
+    {
+        "document_id": "169",
+        "data": {
+            "id": 169,
+            "departure": "Dubai",
+            "destination": "Adelaide",
+            "departure_time": "2023-06-07 19:51:18",
+            "destination_time": "2023-05-28 16:18:05",
+            "flight_price": "4232.37"
+        }
+    },
+    {
+        "document_id": "170",
+        "data": {
+            "id": 170,
+            "departure": "Singapore",
+            "destination": "Melbourne",
+            "departure_time": "2023-12-23 08:10:37",
+            "destination_time": "2023-11-24 11:03:06",
+            "flight_price": "6140.93"
+        }
+    },
+    {
+        "document_id": "171",
+        "data": {
+            "id": 171,
+            "departure": "Kuala Lumpur",
+            "destination": "Dallas",
+            "departure_time": "2023-12-21 19:28:30",
+            "destination_time": "2023-10-31 10:58:55",
+            "flight_price": "9077.80"
+        }
+    },
+    {
+        "document_id": "172",
+        "data": {
+            "id": 172,
+            "departure": "Taipei",
+            "destination": "Denver",
+            "departure_time": "2023-06-07 19:16:52",
+            "destination_time": "2023-07-05 10:23:50",
+            "flight_price": "1713.86"
+        }
+    },
+    {
+        "document_id": "173",
+        "data": {
+            "id": 173,
+            "departure": "Hong Kong",
+            "destination": "Denver",
+            "departure_time": "2023-09-30 01:33:15",
+            "destination_time": "2023-05-21 13:44:41",
+            "flight_price": "2278.20"
+        }
+    },
+    {
+        "document_id": "174",
+        "data": {
+            "id": 174,
+            "departure": "Hanoi",
+            "destination": "London",
+            "departure_time": "2023-06-18 09:38:10",
+            "destination_time": "2023-05-12 09:04:52",
+            "flight_price": "9048.38"
+        }
+    },
+    {
+        "document_id": "175",
+        "data": {
+            "id": 175,
+            "departure": "Chicago",
+            "destination": "Guarulhos",
+            "departure_time": "2023-06-15 15:24:24",
+            "destination_time": "2023-12-23 16:59:58",
+            "flight_price": "4223.87"
+        }
+    },
+    {
+        "document_id": "176",
+        "data": {
+            "id": 176,
+            "departure": "Bangkok",
+            "destination": "Hobart",
+            "departure_time": "2023-09-24 19:40:03",
+            "destination_time": "2023-06-13 17:56:23",
+            "flight_price": "5996.31"
+        }
+    },
+    {
+        "document_id": "177",
+        "data": {
+            "id": 177,
+            "departure": "Mexico City",
+            "destination": "Hanoi",
+            "departure_time": "2023-07-29 14:27:10",
+            "destination_time": "2023-08-18 09:54:41",
+            "flight_price": "1766.49"
+        }
+    },
+    {
+        "document_id": "178",
+        "data": {
+            "id": 178,
+            "departure": "Delhi",
+            "destination": "Atlanta",
+            "departure_time": "2023-07-23 10:17:50",
+            "destination_time": "2023-12-22 01:45:45",
+            "flight_price": "392.73"
+        }
+    },
+    {
+        "document_id": "179",
+        "data": {
+            "id": 179,
+            "departure": "Las Vegas",
+            "destination": "Delhi",
+            "departure_time": "2023-06-07 19:59:28",
+            "destination_time": "2023-09-01 10:36:40",
+            "flight_price": "1673.52"
+        }
+    },
+    {
+        "document_id": "180",
+        "data": {
+            "id": 180,
+            "departure": "Beijing",
+            "destination": "Adelaide",
+            "departure_time": "2023-09-25 23:25:52",
+            "destination_time": "2023-10-28 02:16:46",
+            "flight_price": "8769.71"
+        }
+    },
+    {
+        "document_id": "181",
+        "data": {
+            "id": 181,
+            "departure": "Singapore",
+            "destination": "Paris",
+            "departure_time": "2023-09-20 14:08:07",
+            "destination_time": "2023-10-09 15:54:16",
+            "flight_price": "6717.84"
+        }
+    },
+    {
+        "document_id": "182",
+        "data": {
+            "id": 182,
+            "departure": "Chicago",
+            "destination": "Amsterdam",
+            "departure_time": "2023-11-07 21:33:47",
+            "destination_time": "2023-12-09 18:58:38",
+            "flight_price": "9662.60"
+        }
+    },
+    {
+        "document_id": "183",
+        "data": {
+            "id": 183,
+            "departure": "Toronto",
+            "destination": "Toronto",
+            "departure_time": "2023-06-28 08:08:22",
+            "destination_time": "2023-08-17 18:44:36",
+            "flight_price": "8844.91"
+        }
+    },
+    {
+        "document_id": "184",
+        "data": {
+            "id": 184,
+            "departure": "New York",
+            "destination": "Paris",
+            "departure_time": "2023-10-13 12:28:18",
+            "destination_time": "2023-11-09 23:34:49",
+            "flight_price": "6761.72"
+        }
+    },
+    {
+        "document_id": "185",
+        "data": {
+            "id": 185,
+            "departure": "Barcelona",
+            "destination": "Los Angels",
+            "departure_time": "2023-11-09 12:54:58",
+            "destination_time": "2023-11-26 09:09:26",
+            "flight_price": "2169.58"
+        }
+    },
+    {
+        "document_id": "186",
+        "data": {
+            "id": 186,
+            "departure": "London",
+            "destination": "Amsterdam",
+            "departure_time": "2023-09-01 02:43:35",
+            "destination_time": "2023-09-20 05:28:08",
+            "flight_price": "2711.74"
+        }
+    },
+    {
+        "document_id": "187",
+        "data": {
+            "id": 187,
+            "departure": "New York",
+            "destination": "Shanghai",
+            "departure_time": "2023-11-16 13:53:36",
+            "destination_time": "2023-08-31 13:22:51",
+            "flight_price": "9673.87"
+        }
+    },
+    {
+        "document_id": "188",
+        "data": {
+            "id": 188,
+            "departure": "Mumbai",
+            "destination": "Canberra",
+            "departure_time": "2023-07-08 17:45:36",
+            "destination_time": "2023-10-18 05:43:01",
+            "flight_price": "7783.07"
+        }
+    },
+    {
+        "document_id": "189",
+        "data": {
+            "id": 189,
+            "departure": "London",
+            "destination": "Mumbai",
+            "departure_time": "2023-05-22 07:18:42",
+            "destination_time": "2023-07-14 07:00:00",
+            "flight_price": "7854.43"
+        }
+    },
+    {
+        "document_id": "190",
+        "data": {
+            "id": 190,
+            "departure": "Darwin",
+            "destination": "Chicago",
+            "departure_time": "2023-12-29 18:58:51",
+            "destination_time": "2023-09-09 07:33:02",
+            "flight_price": "1950.29"
+        }
+    },
+    {
+        "document_id": "191",
+        "data": {
+            "id": 191,
+            "departure": "Bangkok",
+            "destination": "Mexico City",
+            "departure_time": "2023-12-04 05:13:15",
+            "destination_time": "2023-10-17 15:16:52",
+            "flight_price": "421.30"
+        }
+    },
+    {
+        "document_id": "192",
+        "data": {
+            "id": 192,
+            "departure": "Istanbul",
+            "destination": "Hong Kong",
+            "departure_time": "2023-09-23 19:49:37",
+            "destination_time": "2023-08-17 11:27:09",
+            "flight_price": "4519.22"
+        }
+    },
+    {
+        "document_id": "193",
+        "data": {
+            "id": 193,
+            "departure": "Frankfurt",
+            "destination": "Guarulhos",
+            "departure_time": "2023-09-23 02:57:36",
+            "destination_time": "2023-05-31 15:12:25",
+            "flight_price": "8689.99"
+        }
+    },
+    {
+        "document_id": "194",
+        "data": {
+            "id": 194,
+            "departure": "Guarulhos",
+            "destination": "London",
+            "departure_time": "2023-08-04 19:25:10",
+            "destination_time": "2023-11-27 05:15:19",
+            "flight_price": "1604.97"
+        }
+    },
+    {
+        "document_id": "195",
+        "data": {
+            "id": 195,
+            "departure": "Ho Chi Minh City",
+            "destination": "Denver",
+            "departure_time": "2023-10-16 13:27:00",
+            "destination_time": "2023-10-24 01:42:06",
+            "flight_price": "5512.53"
+        }
+    },
+    {
+        "document_id": "196",
+        "data": {
+            "id": 196,
+            "departure": "Dallas",
+            "destination": "Canberra",
+            "departure_time": "2023-12-25 03:17:17",
+            "destination_time": "2023-12-29 19:53:16",
+            "flight_price": "2795.08"
+        }
+    },
+    {
+        "document_id": "197",
+        "data": {
+            "id": 197,
+            "departure": "Barcelona",
+            "destination": "Shanghai",
+            "departure_time": "2023-06-28 14:10:46",
+            "destination_time": "2023-09-02 08:44:06",
+            "flight_price": "8084.70"
+        }
+    },
+    {
+        "document_id": "198",
+        "data": {
+            "id": 198,
+            "departure": "Hobart",
+            "destination": "Osaka",
+            "departure_time": "2023-09-13 05:35:45",
+            "destination_time": "2023-11-01 07:02:50",
+            "flight_price": "3525.84"
+        }
+    },
+    {
+        "document_id": "199",
+        "data": {
+            "id": 199,
+            "departure": "Singapore",
+            "destination": "Hobart",
+            "departure_time": "2023-12-23 00:39:56",
+            "destination_time": "2023-06-24 16:58:15",
+            "flight_price": "3704.03"
+        }
+    },
+    {
+        "document_id": "200",
+        "data": {
+            "id": 200,
+            "departure": "Osaka",
+            "destination": "Doha",
+            "departure_time": "2023-11-15 09:18:42",
+            "destination_time": "2023-12-03 02:36:28",
+            "flight_price": "8881.62"
+        }
+    }
+]

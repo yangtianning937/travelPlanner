@@ -1,0 +1,128 @@
+[
+    {
+        "document_id": "1",
+        "data": {
+            "id": 1,
+            "first_name": "admin",
+            "last_name": "admin",
+            "email": "admin@email.com",
+            "password": "$2y$10$dy30n0x6ESHutmqu0LTTteU7AKZ.VeU5bFjgGN2j8bqJBBnlA5DOi",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-09 18:12:06",
+            "modified": "2023-05-09 18:12:06"
+        }
+    },
+    {
+        "document_id": "3",
+        "data": {
+            "id": 3,
+            "first_name": "tianning",
+            "last_name": "yang",
+            "email": "tyan0026@student.monash.edu",
+            "password": "$2y$10$FtDhvFxMJbMfkAMRO0qpF.F32UmYlHfKz0sCQJuMI2W/cwHwj9Qf.",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-09 18:12:06",
+            "modified": "2023-05-09 18:12:06"
+        }
+    },
+    {
+        "document_id": "4",
+        "data": {
+            "id": 4,
+            "first_name": "Arnav",
+            "last_name": "Bhalla",
+            "email": "arnie.bhalla@gmail.com",
+            "password": "$2y$10$gsGHWyck/GrycIQLHz.JteEHtid5lkIaBhsn0k9EDwlHMsLb5qNaO",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-09 18:12:06",
+            "modified": "2023-05-09 18:12:06"
+        }
+    },
+    {
+        "document_id": "5",
+        "data": {
+            "id": 5,
+            "first_name": "Arnav",
+            "last_name": "Bhalla",
+            "email": "abha0028@student.monash.edu",
+            "password": "$2y$10$oQSsaCUekeQkXTUP6BluVOt4ArgL40k0SEP77yccBiIRN.zoS6Wv.",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-09 18:13:09",
+            "modified": "2023-05-09 19:10:52"
+        }
+    },
+    {
+        "document_id": "6",
+        "data": {
+            "id": 6,
+            "first_name": "Jason",
+            "last_name": "Yun",
+            "email": "cyun0005@student.monash.edu",
+            "password": "$2y$10$LJJV3ihD4QTNWlotNAgkA.KsQW/xJQvYi3cA9z/CDApF/BcM02dPu",
+            "nonce": "329c583ce9992ce7257dda28a8e33efbd9eaed2fea0c971a80a3879d64c6cd40fefbe73511f8f3a18dbfec5fcb74d60073a7b089ed25bc17fd7bc7a65b8b495b",
+            "nonce_expiry": "2023-05-17 00:19:08",
+            "created": "2023-05-09 20:36:09",
+            "modified": "2023-05-10 00:19:08"
+        }
+    },
+    {
+        "document_id": "7",
+        "data": {
+            "id": 7,
+            "first_name": "tester",
+            "last_name": "tester",
+            "email": "testing123@email.com",
+            "password": "$2y$10$1wJrE1615cvbNfoVYTNTkOfChP/.xWYYNelUB/B.yoPrmnnW28OZa",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-10 00:13:55",
+            "modified": "2023-05-10 00:13:55"
+        }
+    },
+    {
+        "document_id": "8",
+        "data": {
+            "id": 8,
+            "first_name": "sean",
+            "last_name": "mullins",
+            "email": "sean.mullins@monash.edu",
+            "password": "$2y$10$VcR6xqbSxmRNQ8mz5SlnXOI02durqPFgG7Hkl4B6ZxlGTqMlIqqzW",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-10 17:42:14",
+            "modified": "2023-05-10 17:42:14"
+        }
+    },
+    {
+        "document_id": "9",
+        "data": {
+            "id": 9,
+            "first_name": "Liam",
+            "last_name": "Hynes",
+            "email": "lhyn0001@student.monash.edu",
+            "password": "$2y$10$GLUtI/4KwY31JstYbiFnEejuO7huHtpCiIUbnYAEaVtNkuv29aK5u",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-11 08:36:16",
+            "modified": "2023-05-11 08:36:16"
+        }
+    },
+    {
+        "document_id": "10",
+        "data": {
+            "id": 10,
+            "first_name": "ab",
+            "last_name": "c",
+            "email": "test@example.com",
+            "password": "$2y$10$dJ.Ty46e/UudcqNHirJmau.UTjUWuY8RNh26nVQqhIilD6XT2EUJq",
+            "nonce": null,
+            "nonce_expiry": null,
+            "created": "2023-05-18 10:16:32",
+            "modified": "2023-05-18 10:16:32"
+        }
+    }
+]

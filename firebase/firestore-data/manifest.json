@@ -1,0 +1,66 @@
+{
+    "database": "3047travelplannerproj",
+    "exported_at": "2026-05-27T14:02:55+00:00",
+    "collections": [
+        {
+            "name": "enquiries",
+            "file": "enquiries.json",
+            "documents": 5
+        },
+        {
+            "name": "flight_data",
+            "file": "flight_data.json",
+            "documents": 200
+        },
+        {
+            "name": "flights",
+            "file": "flights.json",
+            "documents": 17
+        },
+        {
+            "name": "hotel_data",
+            "file": "hotel_data.json",
+            "documents": 202
+        },
+        {
+            "name": "hotels",
+            "file": "hotels.json",
+            "documents": 7
+        },
+        {
+            "name": "package_data",
+            "file": "package_data.json",
+            "documents": 200
+        },
+        {
+            "name": "packages",
+            "file": "packages.json",
+            "documents": 4
+        },
+        {
+            "name": "payments",
+            "file": "payments.json",
+            "documents": 0
+        },
+        {
+            "name": "reservation_results",
+            "file": "reservation_results.json",
+            "documents": 0
+        },
+        {
+            "name": "reservations",
+            "file": "reservations.json",
+            "documents": 0
+        },
+        {
+            "name": "services",
+            "file": "services.json",
+            "documents": 0
+        },
+        {
+            "name": "users",
+            "file": "users.json",
+            "documents": 9
+        }
+    ]
+}
