@@ -1,0 +1,16 @@
+
+.error {
+    font-size: 14px !important;
+    width: 100% !important;
+    }
+    
+    .message.error, .error-message {
+    color: red;
+    border: 2px red solid;
+    border-radius: 10px;
+    background-color: salmon;
+    /* width: 50%; */
+    margin-top: 15px;
+    padding: 8px;
+    
+    }

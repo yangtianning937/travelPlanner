@@ -1,0 +1,255 @@
+/* global styles */
+* {
+    margin: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+header,
+section,
+footer {
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+/* .main{
+    width: 80%;margin: 0 auto;text-align: center
+}
+
+.main ul{
+    width: 90%;margin: 0 auto;text-align: center
+} */
+
+form{
+    text-align: center;
+}
+h3 {
+    font-family: 'Autour One', cursive;
+    font-weight: normal;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: #004466;
+    text-align: center;
+}
+
+h4 {
+    font-size: 20px;
+}
+
+/* div {
+    width: 1200px;
+    margin: 0px auto;
+} */
+
+
+
+/* header styles */
+
+header {
+    background-color: #443355;
+    padding-top: 270px;
+    padding-bottom: 210px;
+    color: white;
+    background-image: linear-gradient(rgba(70, 50, 80, 0.5), rgba(70, 50, 80, 0)), url(bg.jpg );
+    background-position: center center;
+    background-size: cover;
+}
+
+header h1 {
+    font-family: 'Autour One', cursive;
+    font-weight: normal;
+    font-size: 30px;
+    text-transform: uppercase;
+    line-height: 30px;
+    position: absolute;
+    top: 30px;
+    left: 30px;
+}
+
+header h2 {
+    margin-bottom: 20px;
+}
+
+header p {
+    margin-bottom: 40px;
+    margin-left: 100px;
+}
+
+header h2 {
+    margin-left: 100px;
+    font-family: 'Rozha One', serif;
+    font-weight: normal;
+    font-size: 60px;
+}
+
+header p {
+    width: 640px;
+}
+
+header a {
+    color: white;
+}
+
+header nav {
+    font-size: 20px;
+    line-height: 30px;
+    position: absolute;
+    top: 30px;
+    right: 30px;
+}
+
+
+header a {
+    text-decoration: none;
+}
+
+
+header a:hover {
+    text-decoration: underline;
+}
+
+header nav ul {
+    list-style: none;
+}
+
+header nav li {
+    display: inline;
+    margin-left: 50px;
+}
+
+header .button {
+    font-weight: bold;
+    background-color: #ffdd00;
+    color: black;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.75);
+}
+
+
+/* choose role section styles */
+#choose-role{
+    background-color:rgba(171, 195, 245, 0.253);
+    text-align: center;
+
+
+}
+#choose-role {
+    overflow: hidden;
+    text-align: center;
+}
+
+
+/*.flex-parent{
+    display: flex;
+
+}
+.test{
+    justify-content: center;
+}
+button.margin-right{
+    margin-right:20px;
+    background-color: #2babeb;
+    font-weight: bold;
+    border-radius: 2px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    padding:15px 30px;
+}
+button.admin{
+    background-color: #2babeb;
+    font-weight: bold;
+    border-radius: 2px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.75);
+    cursor: pointer;
+    padding: 20px 40px;
+}*/
+
+
+
+/* plan-trip section styles */
+
+#plan-trip {
+    overflow: hidden;
+    background-color: #34317a;
+    background-image: linear-gradient(rgba(51, 64, 123, 0.9),rgba(51, 64, 123, 0.9)), url(bg1.jpg);
+    background-position: center center;
+    background-size: cover;
+
+}
+
+#plan-trip h3 {
+    color:#bbeeff;
+}
+#plan-trip figure {
+    width: 260px;
+    height: 260px;
+    margin-left: 20px;
+    margin-right: 20px;
+    float: left;
+    position: relative;
+    border-radius: 5px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.75);
+    overflow: hidden;
+}
+
+#plan-trip figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 20px;
+    color: white;
+    text-shadow: 0px 1px 4px black;
+}
+
+#plan-trip .button {
+    font-weight: bold;
+    background-color: #ffdd00;
+    color: black;
+    padding: 15px;
+    border-radius: 5px;
+    box-shadow: 0px 2px 6px rgba(0, 0, 0, 0.75);
+}
+
+#plan-trip a {
+    text-decoration: none;
+}
+#plan-trip a:hover {
+    text-decoration: underline;
+    color:blue;
+}
+#plan-trip img:hover{
+    opacity:0.5;
+}
+
+
+
+/* footer styles */
+
+footer {
+    background-color: #28253dc8;
+    color: white;
+    text-align: center;
+}
+
+footer h6, footer p {
+    margin-bottom: 20px;
+}
+
+footer h6 {
+    font-family: 'Autour One', cursive;
+    font-weight: normal;
+    font-size: 30px;
+    text-transform: uppercase;
+}
+
+footer h6 a {
+    color: white;
+}
+
+footer a {
+    color: #bbeeff;
+}
